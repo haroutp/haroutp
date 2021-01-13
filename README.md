@@ -8,4 +8,4 @@ I’m a self-taught individual with a lifetime of grit and perseverance. For yea
 
 Based off that experience, I now aspire to become a QA engineer. I’m currently enrolled in a variety of specializations on Coursera related to Java, Python, and Software Testing & Automation. I will also be attending a Software Testing (QA) Specialist bootcamp that is on par with ISTQB standards.
 
-If you have any advice or information was someone breaking into the QA engineering world, please reach out!
+If you have any advice or information for someone breaking into the QA engineering world, please reach out!
